@@ -2,8 +2,12 @@
   width: 30%;
   float: right;
   background-color: turquoise;
+  box-sizing: border-box;
+  margin: 20px;
+  padding: 20px;
 }
 img {
   float: left;
-  width: 200px;
+  width: 400px;
+  padding: 20px;
 }
